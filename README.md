@@ -21,12 +21,14 @@ Here are some ideas to get you started:
 -->
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=60ADFA)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=60ADFA)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=60ADFA)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=60ADFA)
-![](https://img.shields.io/badge/Repository-Github-informational?style=flat&logo=github&logoColor=white&color=60ADFA)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=60ADFA)
+![java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=60ADFA)
+![javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=60ADFA)
+![html5](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=60ADFA)
+![css3](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=60ADFA)
+![intellij](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=60ADFA)
+![github](https://img.shields.io/badge/Repository-Github-informational?style=flat&logo=github&logoColor=white&color=60ADFA)
+![react](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=60ADFA)
+![linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=60ADFA)
 
 ## :octocat: GitHub Stats
 
