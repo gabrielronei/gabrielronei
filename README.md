@@ -1,6 +1,6 @@
 ### Hello there 🤘
 
-Hi everyone, my name is Gabriel Ronei, I'm always studying things about java, code design and on my free time I like to write posts on dev.to about things that I'm learning and listen to music... oh, and I'm brazilian (Brazil)!
+Hi everyone, my name is Gabriel Ronei, I'm always studying things about java, code design and on my free time I like to write posts on dev.to about things that I'm learning and listen to music... oh, and I'm brazilian (:brazil:)!
 
 [![DEV.TO](https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gabrielronei)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ronei/)
