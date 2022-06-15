@@ -50,5 +50,7 @@ Here are some ideas to get you started:
 
 ## 📝 My last articles
 <!-- BLOG-POST-LIST:START -->
+- [Monte seu Type-Safe builder](https://dev.to/gabrielronei/monte-seu-type-safe-builder-1i71)
+- [Gerenciando versões com SDKMAN!](https://dev.to/gabrielronei/gerenciando-versoes-com-sdkman-ne9)
 <!-- BLOG-POST-LIST:END -->
 
