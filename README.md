@@ -48,4 +48,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=nord&hide_border=true&username=gabrielronei" height="150" alt="languages graph"  />
 </div>
 
+## 📝 My last articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
