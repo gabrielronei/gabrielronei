@@ -1,9 +1,16 @@
 ### Hello there 🤘
 
-Hi everyone, my name is Gabriel Ronei, I'm always studying things about java, code design and on my free time I like to write posts on dev.to about things that I'm learning and listen to music... oh, and I'm brazilian (:brazil:)!
+Hi everyone, my name is Gabriel Ronei, I'm always studying things about java, code design and on my free time I like to write posts on dev.to about things that I'm learning and listen to music... oh, and I'm brazilian!
 
-[![DEV.TO](https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gabrielronei)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ronei/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabriel-ronei/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"/>
+  </a>
+
+  <a href="https://dev.to/gabrielronei" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="44" height="32" alt="devto logo"  />
+  </a>
+</div>
 
 <!--
 **gabrielronei/gabrielronei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,21 +28,22 @@ Here are some ideas to get you started:
 -->
 
 ## 🔧 Technologies & Tools
-![java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=60ADFA)
-![javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=60ADFA)
-![html5](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=60ADFA)
-![css3](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=60ADFA)
-![intellij](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=60ADFA)
-![github](https://img.shields.io/badge/Repository-Github-informational?style=flat&logo=github&logoColor=white&color=60ADFA)
-![react](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=60ADFA)
-![linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=60ADFA)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" width="52" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+</div>
 
 ## :octocat: GitHub Stats
 
-<a href="https://github.com/gabrielronei/gabrielronei">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielronei&show_icons=true&line_height=22&count_private=true&title_color=60ADFA&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Gabriel's GitHub Stats" />
-</a>
-
-<a href="https://github.com/gabrielronei/gabrielronei">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielronei&show_icons=true&line_height=27&count_private=true&title_color=60ADFA&text_color=c9cacc&icon_color=60ADFA&bg_color=1d1f21" alt="Gabriel GitHub Stats" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=true&username=gabrielronei" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=nord&hide_border=true&username=gabrielronei" height="150" alt="languages graph"  />
+</div>
