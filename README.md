@@ -1,6 +1,6 @@
 ### Hello there 🤘
 
-Hi everyone, my name is Gabriel Ronei, I'm always studying things about java, code design and on my free time I like to write posts on dev.to about things that I'm learning and listen to music... oh, and I'm brazilian!
+Hi everyone, my name is Gabriel Ronei, and I am a software developer. I really enjoy studying code design, architecture, and Java in general, but I also love diving into the JavaScript world. I'm graduated in Information Systems from FIAP and I'm doing a postgraduate degree in software archtecture.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-ronei/" target="_blank">
@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📖 Cool things that i've done
+- 🎙️(Layers Ponto Tech - PTBR) I took a part in this episode, where I explained about a new feature we developed at Alura:
+https://www.layerspontotech.com.br/2021/12/27/criando-a-aluraflix-layers-ponto-tech-60/
+- 🎙️(Hipsters.Tech - PTBR) In this other episode, we explain a bit about how our Black Friday works and the challenges involved:
+https://www.hipsters.tech/historias-de-black-friday-alura-hipsters-ponto-tech-332/
+- 📘(Desbravando o SOLID - PTBR) I 'm one of the references mentioned in this book, which I highly recommend:
+https://www.casadocodigo.com.br/products/livro-desbravando-solid
 
 ## 🔧 Technologies & Tools
 <div align="center">
