@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 📝 My last articles
+<!-- BLOG-POST-LIST:START -->
+- [Monte seu Type-Safe builder](https://dev.to/gabrielronei/monte-seu-type-safe-builder-1i71)
+- [Gerenciando versões com SDKMAN!](https://dev.to/gabrielronei/gerenciando-versoes-com-sdkman-ne9)
+<!-- BLOG-POST-LIST:END -->
+
 ## 📖 Cool things that i've done
 - 🎙️(Layers Ponto Tech - PTBR) I took a part in this episode, where I explained about a new feature we developed at Alura:
 https://www.layerspontotech.com.br/2021/12/27/criando-a-aluraflix-layers-ponto-tech-60/
@@ -55,10 +61,4 @@ https://www.casadocodigo.com.br/products/livro-desbravando-solid
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=true&username=gabrielronei" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=nord&hide_border=true&username=gabrielronei" height="150" alt="languages graph"  />
 </div>
-
-## 📝 My last articles
-<!-- BLOG-POST-LIST:START -->
-- [Monte seu Type-Safe builder](https://dev.to/gabrielronei/monte-seu-type-safe-builder-1i71)
-- [Gerenciando versões com SDKMAN!](https://dev.to/gabrielronei/gerenciando-versoes-com-sdkman-ne9)
-<!-- BLOG-POST-LIST:END -->
 
