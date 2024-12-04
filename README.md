@@ -1,6 +1,6 @@
 ### Hello there 🤘
 
-Hi everyone, my name is Gabriel Ronei, and I am a software developer. I really enjoy studying code design, architecture, and Java in general, but I also love diving into the JavaScript world. I'm graduated in Information Systems from FIAP and I'm doing a postgraduate degree in software archtecture.
+Hi everyone, my name is Gabriel Ronei, and I am a software engineer. I really enjoy studying code design, architecture and Java in general, but I also love diving into the JavaScript world. I'm graduated in Information Systems from FIAP and I'm doing a postgraduate degree in Software Archtecture.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-ronei/" target="_blank">
